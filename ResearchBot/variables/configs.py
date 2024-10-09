@@ -1,5 +1,5 @@
 class Configs():
-    open_API_Key = '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'
+    open_API_Key = ''
     articles_dir= 'articles'
     papers= 'topic-Chatbot'
     db_dir= './chroma_db'
