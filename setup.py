@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "researchbot"
-AUTHOR_USER_NAME = "Sindhu M"
+AUTHOR_USER_NAME = "bboubaker"
 SRC_REPO = "ResearchBot"
-AUTHOR_EMAIL = "sndhu.madicherla@gmail.com"
+AUTHOR_EMAIL = "bboubaker.tn@gmail.com"
 
 
 setuptools.setup(
