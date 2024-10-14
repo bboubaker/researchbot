@@ -1,5 +1,5 @@
 class Configs():
-    open_API_Key = ''
+    
     articles_dir= 'articles'
     papers= 'topic-Chatbot'
     db_dir= './chroma_db'
